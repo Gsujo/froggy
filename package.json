@@ -1,0 +1,22 @@
+{
+  "name": "froggy-2.6",
+  "version": "2.6.0",
+  "description": "Froggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Gsujo",
+  "license": "ISC",
+  "dependencies": {
+    "@dice-roller/rpg-dice-roller": "^5.2.1",
+    "@discordjs/opus": "^0.8.0",
+    "chalk": "^4.1.0",
+    "csv": "^6.2.2",
+    "discord-player": "^5.3.1",
+    "discord.js": "^14.3.0",
+    "ffmpeg-static": "^5.1.0",
+    "ytdl-core": "^4.11.2"
+  }
+}
