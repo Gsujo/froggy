@@ -1,2 +1,2 @@
 # froggy
-Music bot with easy to edit code 🐸
+Discord bot with easy to edit code 🐸
