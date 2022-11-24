@@ -24,4 +24,12 @@
     "discord.js",
     "ffmpeg-static",
     "ytdl-core"
+    
+   # Screenshots 📸
+   
+   ![A-froggy-screen 1(https://i.imgur.com/D94FJ3r.png)
+   
+   ![A-froggy-screen 2(https://i.imgur.com/VSZFzpN.png)
+   
+   
 
