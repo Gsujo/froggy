@@ -1,6 +1,7 @@
 # Froggy 🐸!
 
 **Discord bot with easy to edit code 🤖**
+![A-froggy-logo](https://i.imgur.com/WcaYGXe.png)
 
 
 # Installation 
